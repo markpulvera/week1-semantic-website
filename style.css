@@ -72,13 +72,18 @@ nav a:hover {
 /* ==========================================================================
    3. CONTENT SECTIONS & CARDS
    ========================================================================== */
-section, article, nav > h2, nav > form, nav > p, nav > h3 {
+section, td, article, nav > h2, nav > form, nav > p, nav > h3 {
     background: #ffffff;
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 4px 6px rgba(148, 122, 122, 0.05);
     margin-bottom: 20px;
     border: 2px solid #72603c;
+}
+caption {
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
 }
 
 h2 {
